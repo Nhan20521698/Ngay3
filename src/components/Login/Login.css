@@ -102,3 +102,9 @@ form a {
 form a:hover {
     cursor: pointer;
 }
+
+.show-error {
+    display: block;
+    color: #ff0000;
+    text-align: left;
+}
